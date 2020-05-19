@@ -3,7 +3,7 @@ body {
     box-sizing: border-box;
     height: 100vh;
     background: rgb(27, 242, 236);
-    background: linear-gradient(to bottom right, rgba(27, 242, 236, 1) 0%, rgba(48, 169, 254, 1) 100%);
+    background: linear-gradient(90deg, rgba(27, 242, 236, 1) 0%, rgba(48, 73, 254, 1) 100%);
 }
 
 #container {
@@ -23,7 +23,7 @@ button {
     border-radius: 7%;
     height: 40px;
     width: 120px;
-    background-color: rgb(57, 161, 25);
+    background-color: rgba(210, 48, 254, 1);
     color: white;
 }
 
