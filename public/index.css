@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    background: rgb(27, 242, 236);
+    background: linear-gradient(to bottom right, rgba(27, 242, 236, 1) 0%, rgba(48, 169, 254, 1) 100%);
+}
+
+#container {
+    margin: auto;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 90vw;
+    margin-top: 5vh;
+}
+
+button {
+    margin-left: 30px;
+    font-size: 1.2rem;
+    border-radius: 7%;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(57, 161, 25);
+    color: white;
+}
+
+button:hover {
+    background-color: black;
+}
