@@ -12,7 +12,7 @@ const {
 } = graphql;
 
 const url =
-    "mongodb+srv://tyler:bakersfield@cluster0-anav1.mongodb.net/test?retryWrites=true&w=majority";
+    "USE YOUR OWN CONNECTION STRING";
 
 let castCollection;
 let metaCollection;
